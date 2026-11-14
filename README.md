@@ -1,2 +1,3 @@
-# Zayvora-Global-Holdings-
-My vision: ZAYVORA should become a name that represents trust, excellence, innovation and international growth. It is not just a company name; it is a brand identity.
+git remote add origin https://github.com/zayvoraglobalholdings/Zayvora-Global-Holdings-.git
+git branch -M main
+git push -u origin main
